@@ -1,31 +1,17 @@
-'''
-1.conda env create -f environment.yml
-'''
-
-'''
-2.cd fastapi
-'''
-
-'''
-3.python main.py
-'''
-# cause_analyse3
+# backend
 
 ## Project setup
 ```
-npm install
+conda env create -f environment.yml
 ```
 
-### Compiles and hot-reloads for development
+### cd wordshop
 ```
-npm run serve
+cd fastapi
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+python main.py
 ```
 
-### Lints and fixes files
-```
-npm run lint
