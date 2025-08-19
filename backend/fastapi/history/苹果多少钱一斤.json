@@ -1,0 +1,26 @@
+{
+  "create_time": "",
+  "messages": [
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "AI",
+      "datetime": "今天16:38",
+      "content": "价格可能会根据你的位置和当地的商店而有所不同。目前，苹果的价格在中国大部分地区都在20-30元人民币之间，一斤左右。但是，请注意，这只是一个粗略估计，实际价格可能会因各种原因发生变化。\n\n如果你想知道当前的市场价格，建议你可以:\n\n1. 检查当地的超市和商店\n2. 使用在线搜索工具，如Google或者百度，输入“苹果多少钱一斤”或类似keywords\n3. 通过手机App或电 thoại应用程式订阅商店 newsletters和促销信息",
+      "role": "assistant"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/avatar.jpg",
+      "name": "用户",
+      "datetime": "今天16:38",
+      "content": "苹果多少钱一斤",
+      "role": "user"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "TDesignAI",
+      "datetime": "今天16:38",
+      "content": "我是故障分析小助手，有什么我可以帮助您的呢？",
+      "role": "assistant"
+    }
+  ]
+}

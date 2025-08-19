@@ -1,0 +1,26 @@
+{
+  "create_time": "",
+  "messages": [
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "AI",
+      "datetime": "今天16:38",
+      "content": "菠萝是一种常见的水果，属于柑橘科。它的科学名称为Citrus paradisi，是一种天然 hybridfruit，部分遗传于柑橘科植物，包括 citrus limon和 Citrus medica。\n\n菠萝的外观是圆形或卵形，有绿色皮肤和白色内部，其果肉里充满了含有糖、酸和维生素的液体。菠萝是人们常用的水果之一，不仅可以作为食物，还常用于美容和护理品中。\n\n在历史上，菠萝被认为是一个富人之food，因为它很难种植。然而，在20世纪后期，通过现代育种技术，菠萝的产量开始大幅增加，并且它现在已经成为一种全球常用水果之一。\n\n菠萝有多种类型，但最常见的还是红色、黄色和绿色。红色菠萝是最sweet的一种，黄色菠萝则更加酸性。",
+      "role": "assistant"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/avatar.jpg",
+      "name": "用户",
+      "datetime": "今天16:38",
+      "content": "什么是菠萝",
+      "role": "user"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "TDesignAI",
+      "datetime": "今天16:38",
+      "content": "我是故障分析小助手，有什么我可以帮助您的呢？",
+      "role": "assistant"
+    }
+  ]
+}

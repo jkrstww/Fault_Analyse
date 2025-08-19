@@ -1,0 +1,26 @@
+{
+  "create_time": "",
+  "messages": [
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "AI",
+      "datetime": "今天16:38",
+      "content": "世界上最大的河是 Nile River。它位于非洲和阿拉伯半岛之间，长约6,853公里（4,258英里)，流经11个国家，是非洲的主要水源，并且也是全球第二大河。Nile River的源头位于埃及的 Nilab River，下游通过几国后，在尼罗滩形成了一条广阔的平原。\n\nNile River的名称可能来源于古埃及的神职人员“Nyn”或“Iyn”，意为“高潮”的意思。",
+      "role": "assistant"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/avatar.jpg",
+      "name": "用户",
+      "datetime": "今天16:38",
+      "content": "世界上最大的河是什么",
+      "role": "user"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "TDesignAI",
+      "datetime": "今天16:38",
+      "content": "我是故障分析小助手，有什么我可以帮助您的呢？",
+      "role": "assistant"
+    }
+  ]
+}

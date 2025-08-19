@@ -1,0 +1,26 @@
+{
+  "create_time": "",
+  "messages": [
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "AI",
+      "datetime": "今天16:38",
+      "content": "1+1=2",
+      "role": "assistant"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/avatar.jpg",
+      "name": "用户",
+      "datetime": "今天16:38",
+      "content": "1+1=多少",
+      "role": "user"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "TDesignAI",
+      "datetime": "今天16:38",
+      "content": "我是故障分析小助手，有什么我可以帮助您的呢？",
+      "role": "assistant"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "create_time": "",
+  "messages": [
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "AI",
+      "datetime": "今天16:38",
+      "content": "我是Your AIAssistant，一个可以帮助你回答问题、提供信息和解决问题的智能助手。我的主要功能包括：\n\n1. **回答问题**：我可以回答你的任何问题，无论是关于历史、科学、文化还是日常生活。\n2. **提供信息**：我有 access到大量的知识和数据，可以提供有关各种主题的信息。\n3. **解决问题**：如果你遇到了一个困难的问题，我可以尝试帮助你找到答案或解决方案。\n\n但是，为了确保你的隐私和安全，我并不会对你的个人信息进行记录或存储。任何与你的交谈无关的信息都将被清除，来保证我们的对话是完全匿名的。\n\n因此，如果你需要帮助或者想要讨论一些 topics，请随时与我交流！",
+      "role": "assistant"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/avatar.jpg",
+      "name": "用户",
+      "datetime": "今天16:38",
+      "content": "我是谁",
+      "role": "user"
+    },
+    {
+      "avatar": "https://tdesign.gtimg.com/site/chat-avatar.png",
+      "name": "TDesignAI",
+      "datetime": "今天16:38",
+      "content": "我是故障分析小助手，有什么我可以帮助您的呢？",
+      "role": "assistant"
+    }
+  ]
+}
