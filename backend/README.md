@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-conda env create -f environment.yml
+conda env create -f requirement.yml
 ```
 
 ### cd wordshop
